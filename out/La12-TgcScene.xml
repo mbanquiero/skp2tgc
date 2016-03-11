@@ -1,0 +1,101 @@
+<tgcScene>
+	<name>La12</name>
+	<texturesExport enabled='true' dir='Textures'/>
+	<lightmapExport enabled='false' dir='LightMaps'/>
+	<materials count='1'>
+	<m name='material' type='Multimaterial'>
+	<subM name='mat_0' type='Standardmaterial'>
+		<ambient>[51.0,51.0,51.0,255.0]</ambient>
+		<diffuse>[0,0,0,255]</diffuse>
+		<specular>[51.0,51.0,51.0,255.0]</specular>
+		<opacity>100.0</opacity>
+		<alphaBlendEnable>false</alphaBlendEnable>
+		<bitmap uvTiling='[1.0,1.0]' uvOffset='[0.0,0.0]'>clr0-0-0.bmp</bitmap>
+	</subM>
+	<subM name='mat_1' type='Standardmaterial'>
+		<ambient>[51.0,51.0,51.0,255.0]</ambient>
+		<diffuse>[255,195,0,255]</diffuse>
+		<specular>[51.0,51.0,51.0,255.0]</specular>
+		<opacity>100.0</opacity>
+		<alphaBlendEnable>false</alphaBlendEnable>
+		<bitmap uvTiling='[1.0,1.0]' uvOffset='[0.0,0.0]'>clr255-195-0.bmp</bitmap>
+	</subM>
+	<subM name='mat_2' type='Standardmaterial'>
+		<ambient>[51.0,51.0,51.0,255.0]</ambient>
+		<diffuse>[96,96,96,255]</diffuse>
+		<specular>[51.0,51.0,51.0,255.0]</specular>
+		<opacity>100.0</opacity>
+		<alphaBlendEnable>false</alphaBlendEnable>
+		<bitmap uvTiling='[1.0,1.0]' uvOffset='[0.0,0.0]'>clr96-96-96.bmp</bitmap>
+	</subM>
+	<subM name='mat_3' type='Standardmaterial'>
+		<ambient>[51.0,51.0,51.0,255.0]</ambient>
+		<diffuse>[211,189,144,255]</diffuse>
+		<specular>[51.0,51.0,51.0,255.0]</specular>
+		<opacity>100.0</opacity>
+		<alphaBlendEnable>false</alphaBlendEnable>
+		<bitmap uvTiling='[1.0,1.0]' uvOffset='[0.0,0.0]'>clr211-189-144.bmp</bitmap>
+	</subM>
+	<subM name='mat_4' type='Standardmaterial'>
+		<ambient>[51.0,51.0,51.0,255.0]</ambient>
+		<diffuse>[119,88,54,255]</diffuse>
+		<specular>[51.0,51.0,51.0,255.0]</specular>
+		<opacity>100.0</opacity>
+		<alphaBlendEnable>false</alphaBlendEnable>
+		<bitmap uvTiling='[1.0,1.0]' uvOffset='[0.0,0.0]'>clr119-88-54.bmp</bitmap>
+	</subM>
+	<subM name='mat_5' type='Standardmaterial'>
+		<ambient>[51.0,51.0,51.0,255.0]</ambient>
+		<diffuse>[35,35,35,255]</diffuse>
+		<specular>[51.0,51.0,51.0,255.0]</specular>
+		<opacity>100.0</opacity>
+		<alphaBlendEnable>false</alphaBlendEnable>
+		<bitmap uvTiling='[1.0,1.0]' uvOffset='[0.0,0.0]'>clr35-35-35.bmp</bitmap>
+	</subM>
+	<subM name='mat_6' type='Standardmaterial'>
+		<ambient>[51.0,51.0,51.0,255.0]</ambient>
+		<diffuse>[167,101,82,255]</diffuse>
+		<specular>[51.0,51.0,51.0,255.0]</specular>
+		<opacity>100.0</opacity>
+		<alphaBlendEnable>false</alphaBlendEnable>
+		<bitmap uvTiling='[1.0,1.0]' uvOffset='[0.0,0.0]'>clr167-101-82.bmp</bitmap>
+	</subM>
+	<subM name='mat_7' type='Standardmaterial'>
+		<ambient>[51.0,51.0,51.0,255.0]</ambient>
+		<diffuse>[8,35,81,255]</diffuse>
+		<specular>[51.0,51.0,51.0,255.0]</specular>
+		<opacity>100.0</opacity>
+		<alphaBlendEnable>false</alphaBlendEnable>
+		<bitmap uvTiling='[1.0,1.0]' uvOffset='[0.0,0.0]'>clr8-35-81.bmp</bitmap>
+	</subM>
+	<subM name='mat_8' type='Standardmaterial'>
+		<ambient>[51.0,51.0,51.0,255.0]</ambient>
+		<diffuse>[30,30,30,255]</diffuse>
+		<specular>[51.0,51.0,51.0,255.0]</specular>
+		<opacity>100.0</opacity>
+		<alphaBlendEnable>false</alphaBlendEnable>
+		<bitmap uvTiling='[1.0,1.0]' uvOffset='[0.0,0.0]'>clr30-30-30.bmp</bitmap>
+	</subM>
+	<subM name='mat_9' type='Standardmaterial'>
+		<ambient>[51.0,51.0,51.0,255.0]</ambient>
+		<diffuse>[244,223,141,255]</diffuse>
+		<specular>[51.0,51.0,51.0,255.0]</specular>
+		<opacity>100.0</opacity>
+		<alphaBlendEnable>false</alphaBlendEnable>
+		<bitmap uvTiling='[1.0,1.0]' uvOffset='[0.0,0.0]'>Fencing_Railing_Metal2.jpg</bitmap>
+	</subM>
+	<subM name='mat_10' type='Standardmaterial'>
+		<ambient>[51.0,51.0,51.0,255.0]</ambient>
+		<diffuse>[58,58,58,255]</diffuse>
+		<specular>[51.0,51.0,51.0,255.0]</specular>
+		<opacity>100.0</opacity>
+		<alphaBlendEnable>false</alphaBlendEnable>
+		<bitmap uvTiling='[1.0,1.0]' uvOffset='[0.0,0.0]'>clr58-58-58.bmp</bitmap>
+	</subM>
+	<subM name='mat_11' type='Standardmaterial'>
+		<ambient>[51.0,51.0,51.0,255.0]</ambient>
+		<diffuse>[0,0,0,255]</diffuse>
+		<specular>[51.0,51.0,51.0,255.0]</specular>
+		<opacity>100.0</opacity>
+		<alphaBlendEnable>false</alphaBlendEnable>
+		<bitmap uvTiling='
